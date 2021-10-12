@@ -1,8 +1,7 @@
 galaxy_info:
   author: vostok
-  description: your role description
-  company: vostok_5
-  role_name: filebeat_role
+  description: vostok5
+  company: luna
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
@@ -28,14 +27,13 @@ galaxy_info:
   # To view available platforms and versions (or releases), visit:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
-   
-   platforms:
-    - name: Ubuntu
-      versions:
-        - all
-    - name: Centos
-      versions:
-        - all
+  platforms:
+   - name: Ubuntu
+     versions:
+       - all
+   - name: Centos
+     versions:
+       - all
 
 
   galaxy_tags: []
